@@ -1,0 +1,17 @@
+<driconf>
+    <device driver="radeon">
+        <option name="allow_rgb10_configs" value="false" />
+    </device>
+
+    <device driver="radeonsi">
+        <option name="allow_rgb10_configs" value="false" />
+    </device>
+
+    <device driver="amdgpu">
+        <option name="allow_rgb10_configs" value="false" />
+    </device>
+
+    <device driver="amdgpu-pro">
+        <option name="allow_rgb10_configs" value="false" />
+    </device>
+</driconf> 
